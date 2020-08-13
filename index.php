@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-<a href="angel.php">Hoja de Vida - angel Echeverria</a>
+<a href="angel.php">Hoja de Vida - angel Echeverria</
 </body>
 </html>

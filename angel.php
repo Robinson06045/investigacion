@@ -10,7 +10,6 @@
     <p>Domicilio: Cayambe <br>
         Edad: 22 años <br>
         Hobbies: Minecraft, Procrastinar
-        
     </p>
 </body>
 </html>
