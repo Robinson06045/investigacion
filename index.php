@@ -7,7 +7,7 @@
 </head>
 <body>
     <a href="robinson.html"></a>
-    <a href="angel.php">Hoja de Vida - angel Echeverria</
+    <a href="angel.php">Hoja de Vida - angel Echeverria</a>
     <a href="david.php">Hoja de vida David Perez</a>
 </body>
 </html>
